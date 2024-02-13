@@ -1,0 +1,1091 @@
+[
+    {
+        "1": {
+            "name": "Python developer (Django/Flask) работа в офисе",
+            "link": "https://spb.hh.ru/vacancy/93089691?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 200 000 ₽",
+            "company": "Hyper AdTech",
+            "city": "Москва"
+        }
+    },
+    {
+        "2": {
+            "name": "Middle Программист React/django",
+            "link": "https://spb.hh.ru/vacancy/92627503?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "до 120 000 ₽",
+            "company": "ООО Имперком",
+            "city": "Москва"
+        }
+    },
+    {
+        "3": {
+            "name": "Senior Python Developer (Django)",
+            "link": "https://spb.hh.ru/vacancy/88593532?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Компания Самолет",
+            "city": "Москва"
+        }
+    },
+    {
+        "4": {
+            "name": "Python-разработчик",
+            "link": "https://spb.hh.ru/vacancy/91827329?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "АНО ЦИСМ",
+            "city": "Москва"
+        }
+    },
+    {
+        "5": {
+            "name": "PHP-разработчик",
+            "link": "https://spb.hh.ru/vacancy/93172341?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ИП Журавлева Елена Леонидовна",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "6": {
+            "name": "Python разработчик (Команда MXDR)",
+            "link": "https://spb.hh.ru/vacancy/91795094?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "F.A.C.C.T.",
+            "city": "Москва"
+        }
+    },
+    {
+        "7": {
+            "name": "Разработчик Python (Support)",
+            "link": "https://spb.hh.ru/vacancy/92547040?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 70 000 ₽",
+            "company": "ООО ЛИГРЕС",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "8": {
+            "name": "Middle python developer",
+            "link": "https://spb.hh.ru/vacancy/93157975?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "AldanDev",
+            "city": "Москва"
+        }
+    },
+    {
+        "9": {
+            "name": "Middle Python developer",
+            "link": "https://spb.hh.ru/vacancy/72687504?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "150 000 – 200 000 ₽",
+            "company": "ООО Селфсек",
+            "city": "Москва"
+        }
+    },
+    {
+        "10": {
+            "name": "Разработчик Python (FastAPI, MySQL, Clickhouse), удаленно",
+            "link": "https://spb.hh.ru/vacancy/92333181?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 250 000 ₽",
+            "company": "ООО ИНТЕХ",
+            "city": "Москва"
+        }
+    },
+    {
+        "11": {
+            "name": "Middle+/Senior Python Developer (Django)",
+            "link": "https://spb.hh.ru/vacancy/91919446?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "GRI",
+            "city": "Москва"
+        }
+    },
+    {
+        "12": {
+            "name": "Middle Python developer",
+            "link": "https://spb.hh.ru/vacancy/92547113?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 100 000 ₽",
+            "company": "ООО ЛИГРЕС",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "13": {
+            "name": "Backend-разработчик (Python) в финансовый блок.",
+            "link": "https://spb.hh.ru/vacancy/92540892?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "билайн: ИТ, Data, Digital",
+            "city": "Москва"
+        }
+    },
+    {
+        "14": {
+            "name": "Инженер-разработчик (Python, Libvirt, qemu-kvm)",
+            "link": "https://spb.hh.ru/vacancy/93158923?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО Даком М",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "15": {
+            "name": "Full Stack Web-разработчик / PHP-программист (удаленно)",
+            "link": "https://spb.hh.ru/vacancy/93131040?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "70 000 – 130 000 ₽",
+            "company": "SArt Technologies, Ltd",
+            "city": "Москва"
+        }
+    },
+    {
+        "16": {
+            "name": "Fullstack python developer (ESC)",
+            "link": "https://spb.hh.ru/vacancy/93142619?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Positive Technologies",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "17": {
+            "name": "Fullstack python developer (ESC)",
+            "link": "https://spb.hh.ru/vacancy/91827540?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Positive Technologies",
+            "city": "Москва"
+        }
+    },
+    {
+        "18": {
+            "name": "Data инженер",
+            "link": "https://spb.hh.ru/vacancy/92816251?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Компания Самолет",
+            "city": "Москва"
+        }
+    },
+    {
+        "19": {
+            "name": "Старший инженер по сопровождению",
+            "link": "https://spb.hh.ru/vacancy/93160831?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Сбер для экспертов",
+            "city": "Москва"
+        }
+    },
+    {
+        "20": {
+            "name": "Python-разработчик",
+            "link": "https://spb.hh.ru/vacancy/89995481?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Ростелеком - Центры обработки данных",
+            "city": "Москва"
+        }
+    },
+    {
+        "21": {
+            "name": "Программист - разработчик Python / PHP Developer",
+            "link": "https://spb.hh.ru/vacancy/91672663?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "до 75 000 ₽",
+            "company": "Имаклик",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "22": {
+            "name": "Системный программист / разработчик Python",
+            "link": "https://spb.hh.ru/vacancy/92323149?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "200 000 – 350 000 ₽",
+            "company": "Carbon Soft",
+            "city": "Москва"
+        }
+    },
+    {
+        "23": {
+            "name": "Senior Python developer",
+            "link": "https://spb.hh.ru/vacancy/92212007?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО WaveAccess",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "24": {
+            "name": "Python developer",
+            "link": "https://spb.hh.ru/vacancy/93048944?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "250 000 – 320 000 ₽",
+            "company": "MIA Dev",
+            "city": "Москва"
+        }
+    },
+    {
+        "25": {
+            "name": "Senior/Middle Python Developer",
+            "link": "https://spb.hh.ru/vacancy/89725304?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ЦРТ | Группа компаний",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "26": {
+            "name": "Senior/Middle Python Developer",
+            "link": "https://spb.hh.ru/vacancy/91413450?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ЦРТ | Группа компаний",
+            "city": "Москва"
+        }
+    },
+    {
+        "27": {
+            "name": "Python developer со знанием Vue (Middle+/Senior)",
+            "link": "https://spb.hh.ru/vacancy/91997753?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Secreate",
+            "city": "Москва"
+        }
+    },
+    {
+        "28": {
+            "name": "Web - разработчик / Fullstack / PHP - Программист (удаленно)",
+            "link": "https://spb.hh.ru/vacancy/92912712?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "70 000 – 120 000 ₽",
+            "company": "TBG Computers",
+            "city": "Москва"
+        }
+    },
+    {
+        "29": {
+            "name": "Наставник на курс “Middle Python-разработчик”",
+            "link": "https://spb.hh.ru/vacancy/91413225?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Яндекс Практикум",
+            "city": "Москва"
+        }
+    },
+    {
+        "30": {
+            "name": "Python-разработчик",
+            "link": "https://spb.hh.ru/vacancy/93091191?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 250 000 ₽",
+            "company": "Далее",
+            "city": "Москва"
+        }
+    },
+    {
+        "31": {
+            "name": "Middle Backend Developer C#",
+            "link": "https://spb.hh.ru/vacancy/92602892?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО АлгоМост",
+            "city": "Москва"
+        }
+    },
+    {
+        "32": {
+            "name": "Python ментор",
+            "link": "https://spb.hh.ru/vacancy/92761145?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ITM-Space",
+            "city": "Москва"
+        }
+    },
+    {
+        "33": {
+            "name": "Python Tech Lead (SL Dating)",
+            "link": "https://spb.hh.ru/vacancy/93054381?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "GRI",
+            "city": "Москва"
+        }
+    },
+    {
+        "34": {
+            "name": "Python/C++ Software Developer (Scientific platform)",
+            "link": "https://spb.hh.ru/vacancy/79041274?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "The Skolkovo Institute of Science and Technology",
+            "city": "Москва"
+        }
+    },
+    {
+        "35": {
+            "name": "Python разработчик",
+            "link": "https://spb.hh.ru/vacancy/92478871?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "180 000 – 230 000 ₽",
+            "company": "ИП Зубченко Вероника Сергеевна",
+            "city": "Москва"
+        }
+    },
+    {
+        "36": {
+            "name": "Web-программист (Рython) middle",
+            "link": "https://spb.hh.ru/vacancy/91948930?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "WelbeX",
+            "city": "Москва"
+        }
+    },
+    {
+        "37": {
+            "name": "Middle backend Python",
+            "link": "https://spb.hh.ru/vacancy/92965237?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО РА Дельта",
+            "city": "Москва"
+        }
+    },
+    {
+        "38": {
+            "name": "Python Developer (Tools)",
+            "link": "https://spb.hh.ru/vacancy/84644126?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Lesta Games",
+            "city": "Москва"
+        }
+    },
+    {
+        "39": {
+            "name": "ML-ops инженер",
+            "link": "https://spb.hh.ru/vacancy/93066834?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "АТОМ",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "40": {
+            "name": "ML-ops инженер",
+            "link": "https://spb.hh.ru/vacancy/93066483?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "АТОМ",
+            "city": "Москва"
+        }
+    },
+    {
+        "41": {
+            "name": "Python-разработчик",
+            "link": "https://spb.hh.ru/vacancy/91673918?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Сбер для экспертов",
+            "city": "Москва"
+        }
+    },
+    {
+        "42": {
+            "name": "Преподаватель по Программированию для детей",
+            "link": "https://spb.hh.ru/vacancy/91903154?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 40 000 ₽",
+            "company": "Brainhub",
+            "city": "Москва"
+        }
+    },
+    {
+        "43": {
+            "name": "Python разработчик",
+            "link": "https://spb.hh.ru/vacancy/92951527?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "UCGP Consult",
+            "city": "Москва"
+        }
+    },
+    {
+        "44": {
+            "name": "Python-разработчик / Python-developer",
+            "link": "https://spb.hh.ru/vacancy/93083082?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Группа компаний Навигатор",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "45": {
+            "name": "Разработчик Python (Middle+/Senior)",
+            "link": "https://spb.hh.ru/vacancy/90604662?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 200 000 ₽",
+            "company": "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "46": {
+            "name": "Full stack разработчик",
+            "link": "https://spb.hh.ru/vacancy/93051383?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "150 000 – 200 000 ₽",
+            "company": "Тензор",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "47": {
+            "name": "Python Developer",
+            "link": "https://spb.hh.ru/vacancy/92279274?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ТерраЛинк",
+            "city": "Москва"
+        }
+    },
+    {
+        "48": {
+            "name": "Инженер-разработчик Python",
+            "link": "https://spb.hh.ru/vacancy/90077186?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Максмарт",
+            "city": "Москва"
+        }
+    },
+    {
+        "49": {
+            "name": "Middle / Senior Python Developer (удаленно)",
+            "link": "https://spb.hh.ru/vacancy/92896866?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "RedLab",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "50": {
+            "name": "Middle Python developer",
+            "link": "https://spb.hh.ru/vacancy/92915494?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 150 000 ₽",
+            "company": "ООО Соломон",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "51": {
+            "name": "Главный специалист (id 127)",
+            "link": "https://spb.hh.ru/vacancy/91412798?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО Газпром ЦПС",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "52": {
+            "name": "Системный администратор Linux / Kubernetes (Middle DevOps инженер)",
+            "link": "https://spb.hh.ru/vacancy/92895011?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "180 000 – 250 000 ₽",
+            "company": "ООО РА Дельта",
+            "city": "Москва"
+        }
+    },
+    {
+        "53": {
+            "name": "Senior Python Backend developer / Инженер-программист (Testing Tools)",
+            "link": "https://spb.hh.ru/vacancy/92909793?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "YADRO",
+            "city": "Москва"
+        }
+    },
+    {
+        "54": {
+            "name": "Frontend Python-разработчик",
+            "link": "https://spb.hh.ru/vacancy/92972527?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 250 000 ₽",
+            "company": "Далее",
+            "city": "Москва"
+        }
+    },
+    {
+        "55": {
+            "name": "Python-разработчик (Middle+/Senior)",
+            "link": "https://spb.hh.ru/vacancy/90880622?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 250 000 ₽",
+            "company": "Rubbles",
+            "city": "Москва"
+        }
+    },
+    {
+        "56": {
+            "name": "Senior Python developer",
+            "link": "https://spb.hh.ru/vacancy/86531354?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "до 250 000 ₽",
+            "company": "ООО МедиаСофт",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "57": {
+            "name": "Junior DevOPS инженер",
+            "link": "https://spb.hh.ru/vacancy/92934530?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 50 000 ₽",
+            "company": "ООО Виста",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "58": {
+            "name": "Инженер сопровождения платформы JaiCP",
+            "link": "https://spb.hh.ru/vacancy/89152769?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "до 225 000 ₽",
+            "company": "Outlines Technologies",
+            "city": "Москва"
+        }
+    },
+    {
+        "59": {
+            "name": "Руководитель группы разработки (Python, backend)",
+            "link": "https://spb.hh.ru/vacancy/91311746?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "SL Soft",
+            "city": "Москва"
+        }
+    },
+    {
+        "60": {
+            "name": "Python Developer Middle+/Senior",
+            "link": "https://spb.hh.ru/vacancy/84852772?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ЕДИНЫЙ ЦУПИС",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "61": {
+            "name": "Middle Python-разработчик (Инженер-программист 2 категории)(01050-1)",
+            "link": "https://spb.hh.ru/vacancy/85608307?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 130 000 ₽",
+            "company": "АО Моринформсистема-Агат, Концерн",
+            "city": "Москва"
+        }
+    },
+    {
+        "62": {
+            "name": "Python разработчик",
+            "link": "https://spb.hh.ru/vacancy/92889895?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Лига Цифровой Экономики",
+            "city": "Москва"
+        }
+    },
+    {
+        "63": {
+            "name": "Разработчик Python",
+            "link": "https://spb.hh.ru/vacancy/92841279?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "100 000 – 150 000 ₽",
+            "company": "АО НИИ МАСШТАБ",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "64": {
+            "name": "Backend разработчик (Python)",
+            "link": "https://spb.hh.ru/vacancy/92430384?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "IT-Work",
+            "city": "Москва"
+        }
+    },
+    {
+        "65": {
+            "name": "Аналитик данных [Департамент качества и клиентского опыта]",
+            "link": "https://spb.hh.ru/vacancy/92821041?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ПАО «МТС» ",
+            "city": "Москва"
+        }
+    },
+    {
+        "66": {
+            "name": "Специалист группы по средствам разработки ПО",
+            "link": "https://spb.hh.ru/vacancy/84419503?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Группа компаний Астра",
+            "city": "Москва"
+        }
+    },
+    {
+        "67": {
+            "name": "Разработчик Python backend",
+            "link": "https://spb.hh.ru/vacancy/92519276?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "100 000 – 180 000 ₽",
+            "company": "ФГБОУ ВО МГТУ им. Н.Э. Баумана",
+            "city": "Москва"
+        }
+    },
+    {
+        "68": {
+            "name": "Python Team Lead / Руководитель backend разработки",
+            "link": "https://spb.hh.ru/vacancy/88200504?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "GRI",
+            "city": "Москва"
+        }
+    },
+    {
+        "69": {
+            "name": "Инженер (Python)",
+            "link": "https://spb.hh.ru/vacancy/86071635?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "АО Национальная система платежных карт",
+            "city": "Москва"
+        }
+    },
+    {
+        "70": {
+            "name": "Программист Python (Senior)",
+            "link": "https://spb.hh.ru/vacancy/92571555?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "до 300 000 ₽",
+            "company": "TQB Russia",
+            "city": "Москва"
+        }
+    },
+    {
+        "71": {
+            "name": "Senior Python Developer",
+            "link": "https://spb.hh.ru/vacancy/91460286?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО Бристоль, сеть магазинов",
+            "city": "Москва"
+        }
+    },
+    {
+        "72": {
+            "name": "Data Engineer",
+            "link": "https://spb.hh.ru/vacancy/89216786?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "МТС Банк. IT",
+            "city": "Москва"
+        }
+    },
+    {
+        "73": {
+            "name": "Python разработчик (Удаленно)",
+            "link": "https://spb.hh.ru/vacancy/92628454?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Самвелян Хачатур Арменович",
+            "city": "Москва"
+        }
+    },
+    {
+        "74": {
+            "name": "Python developer",
+            "link": "https://spb.hh.ru/vacancy/87463941?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ПАО «Газпром нефть» ИТ",
+            "city": "Москва"
+        }
+    },
+    {
+        "75": {
+            "name": "Python developer",
+            "link": "https://spb.hh.ru/vacancy/87463942?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ПАО «Газпром нефть» ИТ",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "76": {
+            "name": "Phyton Developer (Middle|Senior)",
+            "link": "https://spb.hh.ru/vacancy/92485053?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ГК ФСК",
+            "city": "Москва"
+        }
+    },
+    {
+        "77": {
+            "name": "Fullstack разработчик",
+            "link": "https://spb.hh.ru/vacancy/92545436?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Лига Цифровой Экономики",
+            "city": "Москва"
+        }
+    },
+    {
+        "78": {
+            "name": "Middle Fullstack Developer (Vue + Python)",
+            "link": "https://spb.hh.ru/vacancy/84355216?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "АО ГЛОРИЯ ДЖИНС. IT",
+            "city": "Москва"
+        }
+    },
+    {
+        "79": {
+            "name": "Computer Vision Engineer",
+            "link": "https://spb.hh.ru/vacancy/92423296?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "WILDBERRIES",
+            "city": "Москва"
+        }
+    },
+    {
+        "80": {
+            "name": "Lead/Senior Backend Developer",
+            "link": "https://spb.hh.ru/vacancy/92655967?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "400 000 – 500 000 ₽",
+            "company": "Radium Finance",
+            "city": "Москва"
+        }
+    },
+    {
+        "81": {
+            "name": "Разработчик на Python",
+            "link": "https://spb.hh.ru/vacancy/92362478?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ЛУКОЙЛ",
+            "city": "Москва"
+        }
+    },
+    {
+        "82": {
+            "name": "Разработчик Python",
+            "link": "https://spb.hh.ru/vacancy/90881235?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ПАО «Газпром нефть» Закупки",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "83": {
+            "name": "Python разработчик (XOps)",
+            "link": "https://spb.hh.ru/vacancy/92431034?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Сбер для экспертов",
+            "city": "Москва"
+        }
+    },
+    {
+        "84": {
+            "name": "Python Developer",
+            "link": "https://spb.hh.ru/vacancy/92279183?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "М.Видео-Эльдорадо. ИТ",
+            "city": "Москва"
+        }
+    },
+    {
+        "85": {
+            "name": "Backend разработчик (Python)",
+            "link": "https://spb.hh.ru/vacancy/88676763?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "SL Soft",
+            "city": "Москва"
+        }
+    },
+    {
+        "86": {
+            "name": "Senior Backend Python (Team Lead)",
+            "link": "https://spb.hh.ru/vacancy/92267714?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Evvve",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "87": {
+            "name": "Fullstack разработчик",
+            "link": "https://spb.hh.ru/vacancy/92428638?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ЕДИНЫЙ ЦУПИС",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "88": {
+            "name": "Разработчик Python (Junior) / Artist DI",
+            "link": "https://spb.hh.ru/vacancy/92156072?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО СиДжиФэктори",
+            "city": "Москва"
+        }
+    },
+    {
+        "89": {
+            "name": "Python-разработчик",
+            "link": "https://spb.hh.ru/vacancy/92298919?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "180 000 – 280 000 ₽",
+            "company": "Watt",
+            "city": "Москва"
+        }
+    },
+    {
+        "90": {
+            "name": "Python developer",
+            "link": "https://spb.hh.ru/vacancy/91647262?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО ИЦ АЙ-ТЕКО",
+            "city": "Москва"
+        }
+    },
+    {
+        "91": {
+            "name": "Middle Python Developer",
+            "link": "https://spb.hh.ru/vacancy/92281844?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "100 000 – 120 000 ₽",
+            "company": "HEADS and HANDS",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "92": {
+            "name": "Junior / Middle разработчик Python",
+            "link": "https://spb.hh.ru/vacancy/92781300?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Rubytech",
+            "city": "Москва"
+        }
+    },
+    {
+        "93": {
+            "name": "Backend Developer (Python)",
+            "link": "https://spb.hh.ru/vacancy/92221985?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "HuntIT",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "94": {
+            "name": "Python developer (middle/senior)",
+            "link": "https://spb.hh.ru/vacancy/88546366?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО «Баланс-Платформа»",
+            "city": "Москва"
+        }
+    },
+    {
+        "95": {
+            "name": "Разработчик Python",
+            "link": "https://spb.hh.ru/vacancy/90789260?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "до 150 000 ₽",
+            "company": "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "96": {
+            "name": "Python Backend Developer (Middle)",
+            "link": "https://spb.hh.ru/vacancy/91756787?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ЛИИС, ГК",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "97": {
+            "name": "Backend developer Python (Senior) / Бэкенд-разработчик Python",
+            "link": "https://spb.hh.ru/vacancy/92058952?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО СТМ",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "98": {
+            "name": "Python-разработчик",
+            "link": "https://spb.hh.ru/vacancy/92001459?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Перфоманс Лаб",
+            "city": "Москва"
+        }
+    },
+    {
+        "99": {
+            "name": "Machine Learning / Machine Learning Ops Engineer",
+            "link": "https://spb.hh.ru/vacancy/84270079?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области",
+            "city": "Москва"
+        }
+    },
+    {
+        "100": {
+            "name": "Middle+/Senior Python Developer",
+            "link": "https://spb.hh.ru/vacancy/91956430?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО БОЛЬШАЯ ТРОЙКА",
+            "city": "Москва"
+        }
+    },
+    {
+        "101": {
+            "name": "Python developer (remote)",
+            "link": "https://spb.hh.ru/vacancy/89498599?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО Анлимитед Продакшен",
+            "city": "Москва"
+        }
+    },
+    {
+        "102": {
+            "name": "Backend разработчик (Java, Spring)",
+            "link": "https://spb.hh.ru/vacancy/91743236?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "200 000 – 300 000 ₽",
+            "company": "ООО Таможенная карта",
+            "city": "Москва"
+        }
+    },
+    {
+        "103": {
+            "name": "Разработчик Python // Cпециалист в DI // Монтажёр",
+            "link": "https://spb.hh.ru/vacancy/91922992?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО СиДжиФэктори",
+            "city": "Москва"
+        }
+    },
+    {
+        "104": {
+            "name": "Backend-разработчик / Разработчик Python",
+            "link": "https://spb.hh.ru/vacancy/87406300?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 230 000 ₽",
+            "company": "Университет ИТМО",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "105": {
+            "name": "Системный инженер Apple",
+            "link": "https://spb.hh.ru/vacancy/92115680?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Ventra",
+            "city": "Москва"
+        }
+    },
+    {
+        "106": {
+            "name": "Разработчик на Python в финансовую платформу",
+            "link": "https://spb.hh.ru/vacancy/92031035?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Яндекс",
+            "city": "Москва"
+        }
+    },
+    {
+        "107": {
+            "name": "Разработчик на Python в финансовую платформу",
+            "link": "https://spb.hh.ru/vacancy/92031036?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Яндекс",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "108": {
+            "name": "Data Scientist",
+            "link": "https://spb.hh.ru/vacancy/92091830?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "до 300 000 ₽",
+            "company": "Точка",
+            "city": "Москва"
+        }
+    },
+    {
+        "109": {
+            "name": "Руководитель разработки Python",
+            "link": "https://spb.hh.ru/vacancy/92217665?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Группа компаний Астра",
+            "city": "Москва"
+        }
+    },
+    {
+        "110": {
+            "name": "Fullstack developer (JS, Python)",
+            "link": "https://spb.hh.ru/vacancy/91641288?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "АО АСТ",
+            "city": "Москва"
+        }
+    },
+    {
+        "111": {
+            "name": "Программист Python",
+            "link": "https://spb.hh.ru/vacancy/92061468?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО ЭКО центр АльтраВита",
+            "city": "Москва"
+        }
+    },
+    {
+        "112": {
+            "name": "Fullstack разработчик (Python, JS)",
+            "link": "https://spb.hh.ru/vacancy/91611589?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "МАГНИТ, Розничная сеть",
+            "city": "Москва"
+        }
+    },
+    {
+        "113": {
+            "name": "Backend-разработчик (Senior)",
+            "link": "https://spb.hh.ru/vacancy/90809668?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 450 000 ₽",
+            "company": "ООО Вайтлист",
+            "city": "Москва"
+        }
+    },
+    {
+        "114": {
+            "name": "Python Backend Developer",
+            "link": "https://spb.hh.ru/vacancy/91885582?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "ООО Эвокарго",
+            "city": "Москва"
+        }
+    },
+    {
+        "115": {
+            "name": "Python разработчик",
+            "link": "https://spb.hh.ru/vacancy/92116169?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Иви",
+            "city": "Москва"
+        }
+    },
+    {
+        "116": {
+            "name": "Python разработчик",
+            "link": "https://spb.hh.ru/vacancy/92037159?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Солар",
+            "city": "Москва"
+        }
+    },
+    {
+        "117": {
+            "name": "Junior Python разработчик",
+            "link": "https://spb.hh.ru/vacancy/91861865?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "от 60 000 ₽",
+            "company": "ООО Виста",
+            "city": "Санкт-Петербург"
+        }
+    },
+    {
+        "118": {
+            "name": "Frontend developer in Sber Robotics Lab, Middle/Senior",
+            "link": "https://spb.hh.ru/vacancy/91859698?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Сбер для экспертов",
+            "city": "Москва"
+        }
+    },
+    {
+        "119": {
+            "name": "Software engineer in Sber Robotics Lab, Senior/Middle",
+            "link": "https://spb.hh.ru/vacancy/91859911?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "Сбер для экспертов",
+            "city": "Москва"
+        }
+    },
+    {
+        "120": {
+            "name": "Архитектор DWH",
+            "link": "https://spb.hh.ru/vacancy/91871249?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "з/п не указана",
+            "company": "МТС Банк. IT",
+            "city": "Москва"
+        }
+    },
+    {
+        "121": {
+            "name": "Программист-разработчик",
+            "link": "https://spb.hh.ru/vacancy/91603382?query=Flask+Django&hhtmFrom=vacancy_search_list",
+            "salary": "180 000 – 250 000 ₽",
+            "company": "Смартвокс ИТ",
+            "city": "Москва"
+        }
+    }
+]
